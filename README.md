@@ -2,7 +2,7 @@
 - 👀 I’m interested in VLSI Technology
 - 🌱 I’m currently learning Verilog, VHDL and Open Source VLSI Tools
 - 💞️ I’m looking to collaborate on VLSI Projects
-- 📫 To reach me- samanway.ghosh2018@uem.edu.in
+- 📫 To reach me- samanway.ghosh@gmail.com
 
 <!---
 samanway10/samanway10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
