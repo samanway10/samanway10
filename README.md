@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samanway10
-- 👀 I’m interested in VLSI Technology
-- 🌱 I’m currently learning Verilog, VHDL and Open Source VLSI Tools
-- 💞️ I’m looking to collaborate on VLSI Projects
+- 👀 I’m PhD Research Scholar @NIT Rourkela
+- 🌱 My area of interest- Digital VLSI Design. Digital Neuromorphic IC Design, Bio-Inspired Spiking Neural Network, ASIC Design for Biomedical Application
+- 💞️ I’m looking to collaborate on Neuromorphic IC Design Projects.
 - 📫 To reach me- samanway.ghosh@gmail.com
 - 📫 My Linkedin Profile- www.linkedin.com/in/samanway-ghosh 
 <!---
